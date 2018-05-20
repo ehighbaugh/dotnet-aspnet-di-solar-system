@@ -1,0 +1,11 @@
+C:\Users\erinh\source\repos\dotnet-aspnet-di-solar-system\Treehouse.AspNetCore\bin\Debug\netcoreapp2.0\Treehouse.AspNetCore.deps.json
+C:\Users\erinh\source\repos\dotnet-aspnet-di-solar-system\Treehouse.AspNetCore\bin\Debug\netcoreapp2.0\Treehouse.AspNetCore.runtimeconfig.json
+C:\Users\erinh\source\repos\dotnet-aspnet-di-solar-system\Treehouse.AspNetCore\bin\Debug\netcoreapp2.0\Treehouse.AspNetCore.runtimeconfig.dev.json
+C:\Users\erinh\source\repos\dotnet-aspnet-di-solar-system\Treehouse.AspNetCore\bin\Debug\netcoreapp2.0\Treehouse.AspNetCore.dll
+C:\Users\erinh\source\repos\dotnet-aspnet-di-solar-system\Treehouse.AspNetCore\bin\Debug\netcoreapp2.0\Treehouse.AspNetCore.pdb
+C:\Users\erinh\source\repos\dotnet-aspnet-di-solar-system\Treehouse.AspNetCore\obj\Debug\netcoreapp2.0\Treehouse.AspNetCore.csprojAssemblyReference.cache
+C:\Users\erinh\source\repos\dotnet-aspnet-di-solar-system\Treehouse.AspNetCore\obj\Debug\netcoreapp2.0\Treehouse.AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\erinh\source\repos\dotnet-aspnet-di-solar-system\Treehouse.AspNetCore\obj\Debug\netcoreapp2.0\Treehouse.AspNetCore.AssemblyInfoInputs.cache
+C:\Users\erinh\source\repos\dotnet-aspnet-di-solar-system\Treehouse.AspNetCore\obj\Debug\netcoreapp2.0\Treehouse.AspNetCore.AssemblyInfo.cs
+C:\Users\erinh\source\repos\dotnet-aspnet-di-solar-system\Treehouse.AspNetCore\obj\Debug\netcoreapp2.0\Treehouse.AspNetCore.dll
+C:\Users\erinh\source\repos\dotnet-aspnet-di-solar-system\Treehouse.AspNetCore\obj\Debug\netcoreapp2.0\Treehouse.AspNetCore.pdb

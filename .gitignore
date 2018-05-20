@@ -3,3 +3,9 @@
 ################################################################################
 
 /packages
+/.vs
+/Treehouse.SolarSystem/bin
+/Treehouse.SolarSystem/Content
+/Treehouse.SolarSystem/fonts
+/Treehouse.SolarSystem/obj/Debug
+/__MACOSX
